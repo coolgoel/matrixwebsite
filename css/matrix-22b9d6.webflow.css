@@ -536,6 +536,10 @@
   max-height: 240px;
   max-width: 320px;
 }
+.div-block-10 #img{
+  height: 100%;
+  width: 100%;
+}
 
 .text-block-7 {
   display: block;
